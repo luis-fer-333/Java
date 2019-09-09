@@ -1,0 +1,5 @@
+﻿  Joc.cpp
+c:\users\luis\documents\fi\arkanoid\joc.cpp(201): warning C4101: 'mur': unreferenced local variable
+c:\users\luis\documents\fi\arkanoid\joc.cpp(195): warning C4715: 'ArribadaMur': not all control paths return a value
+  Arkanoid.vcxproj -> C:\Users\Luis\Documents\FI\Arkanoid\Debug\Arkanoid.exe
+  Arkanoid.vcxproj -> C:\Users\Luis\Documents\FI\Arkanoid\Debug\Arkanoid.pdb (Full PDB)
